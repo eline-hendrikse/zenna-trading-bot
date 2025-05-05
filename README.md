@@ -9,11 +9,16 @@ Paper trading:
 - Run Zenna based on the chosen strategy without using real money.
 
 Trading:
-- Live trading.
+- Live trading bot.
 
 # How to install/run
 This app is still under development. 
-For instructions on how to run Zenna on an Azure virtual machine (Linux), use the contact details under 'Contact' and ask for more information on how to run Zenna.
+For instructions on how to install Zenna on an Azure virtual machine (Linux), use the contact details under 'Contact' and ask for more information.
+
+General instructions:
+- Install Python and Python libraries
+- Add Binance, Telegram and SharePoint keys to apps/.env
+- Use Telegram to start and stop functionalities. Type /commands to see a full list of possible commands and select a specific command for examples. 
 
 # Results
 <img width="762" alt="Backtesting Results" src="https://github.com/user-attachments/assets/bad52503-69fe-4af7-90bf-475edf193984" />
