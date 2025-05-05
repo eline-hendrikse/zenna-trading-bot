@@ -18,7 +18,7 @@ For instructions on how to install Zenna on an Azure virtual machine (Linux), us
 General instructions:
 - Install Python and Python libraries
 - Add Binance, Telegram and SharePoint keys to apps/.env
-- Use Telegram to start and stop functionalities. Type /commands to see a full list of possible commands and select a specific command for examples. 
+- Use Telegram to start and stop functionalities. Type /commands to see a full list of possible commands and select a specific command for a ready-to-use example.
 
 # Results
 <img width="762" alt="Backtesting Results" src="https://github.com/user-attachments/assets/bad52503-69fe-4af7-90bf-475edf193984" />
